@@ -1,37 +1,24 @@
-## Welcome to the Land Lord App
+# Welcome to the LandLord App
 
-What is the Land Lord App? The Land lord app allows the Land Lord to have all their tenants files and information at the tip of their fingers, and it allows for land lords tenants to be able to communicate with their land lord more efficant.  
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```What the app includes
+**What is the LandLord App?** The Landlord app allows the LandLord to have all their tenants files and information at the tip of their fingers, and it allows for landlord's tenants to be able to communicate with their land lord more efficant.  
 
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## Whats included in the app for the LandLord himself:
+-Ability to keep photos of an apartment, or house.
+-Area to store the contract with tenants.
+-Information of tenants, name,birthdate,lastpayment..etc
+-Ability to contact tenant.
+-Records of work done on the house/apartment.
+-Request made by tenants.
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+### Whats included in the app for the Teanants:
+-Tenants are able to request repairs.
+-Make payments.
+-Get in touch with the Landlord.
+-Report problems
+-See if a request is being processed.
+-Keep photos of apartment/house.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AlexAnguiano/LandLordApp/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
