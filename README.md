@@ -21,7 +21,7 @@ The Landlord app allows the LandLord to have all their tenants files and informa
 
 
 
-### Whats included in the app for the Teanants:
+## Whats included in the app for the Teanants:
 -Tenants are able to request repairs.
 
 -Make payments.
