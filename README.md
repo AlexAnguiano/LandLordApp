@@ -1,6 +1,8 @@
 # Welcome to the LandLord App
 
-**What is the LandLord App?** The Landlord app allows the LandLord to have all their tenants files and information at the tip of their fingers, and it allows for landlord's tenants to be able to communicate with their land lord more efficant.  
+**What is the LandLord App?** 
+
+The Landlord app allows the LandLord to have all their tenants files and information at the tip of their fingers, and it allows for landlord's tenants to be able to communicate with their landlord more efficant.  
 
 
 
