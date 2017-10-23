@@ -1,4 +1,4 @@
-## Welcome to Land Lord App
+## Welcome to the Land Lord App
 
 What is the Land Lord App? The Land lord app allows the Land Lord to have all their tenants files and information at the tip of their fingers, and it allows for land lords tenants to be able to communicate with their land lord more efficant.  
 
@@ -8,8 +8,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+```What the app includes
+
 
 # Header 1
 ## Header 2
