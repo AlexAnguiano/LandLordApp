@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Land Lord App
 
-You can use the [editor on GitHub](https://github.com/AlexAnguiano/LandLordApp/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+What is the Land Lord App? The Land lord app allows the Land Lord to have all their tenants files and information at the tip of their fingers, and it allows for land lords tenants to be able to communicate with their land lord more efficant.  
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
